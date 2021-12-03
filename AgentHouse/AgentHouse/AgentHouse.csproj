@@ -12,7 +12,6 @@
     <Folder Include="UCs\" />
     <Folder Include="Assets\" />
     <Folder Include="Styles\" />
-    <Folder Include="Themes\" />
   </ItemGroup>
 
 </Project>
