@@ -11,7 +11,6 @@
     <Folder Include="Windows\" />
     <Folder Include="UCs\" />
     <Folder Include="Assets\" />
-    <Folder Include="Styles\" />
   </ItemGroup>
 
 </Project>

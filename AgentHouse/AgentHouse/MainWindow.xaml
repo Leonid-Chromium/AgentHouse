@@ -7,6 +7,12 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-
+        <StackPanel>
+            <ComboBox Height="20">
+                <ComboBoxItem Content="Test" IsSelected="True"></ComboBoxItem>
+                <ComboBoxItem Content="Test" IsSelected="True"></ComboBoxItem>
+                <ComboBoxItem Content="Test" IsSelected="True"></ComboBoxItem>
+            </ComboBox>
+        </StackPanel>
     </Grid>
 </Window>
